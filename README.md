@@ -1,1 +1,1 @@
-ConsoleApp4
+Console example of binance bot
